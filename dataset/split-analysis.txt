@@ -1,0 +1,88 @@
+test set
+stroke stroke
+0    1213
+1      65
+Name: stroke, dtype: int64
+gender gender
+Female    746
+Male      532
+Name: gender, dtype: int64
+hypertension hypertension
+0    1141
+1     137
+Name: hypertension, dtype: int64
+heart_disease heart_disease
+0    1217
+1      61
+Name: heart_disease, dtype: int64
+ever_married ever_married
+No     435
+Yes    843
+Name: ever_married, dtype: int64
+work_type work_type
+Govt_job         168
+Never_worked       2
+Private          734
+Self-employed    214
+children         160
+Name: work_type, dtype: int64
+Residence_type Residence_type
+Rural    625
+Urban    653
+Name: Residence_type, dtype: int64
+bmi_discrete bmi_discrete
+Healthy        309
+Obese          499
+Overweight     338
+Underweight     79
+unknown         53
+Name: bmi_discrete, dtype: int64
+avg_glucose_level_discrete avg_glucose_level_discrete
+0    1154
+1     124
+Name: avg_glucose_level_discrete, dtype: int64
+
+train set
+stroke stroke
+0    3648
+1     184
+Name: stroke, dtype: int64
+gender gender
+Female    2248
+Male      1583
+Other        1
+Name: gender, dtype: int64
+hypertension hypertension
+0    3471
+1     361
+Name: hypertension, dtype: int64
+heart_disease heart_disease
+0    3617
+1     215
+Name: heart_disease, dtype: int64
+ever_married ever_married
+No     1322
+Yes    2510
+Name: ever_married, dtype: int64
+work_type work_type
+Govt_job          489
+Never_worked       20
+Private          2191
+Self-employed     605
+children          527
+Name: work_type, dtype: int64
+Residence_type Residence_type
+Rural    1889
+Urban    1943
+Name: Residence_type, dtype: int64
+bmi_discrete bmi_discrete
+Healthy         934
+Obese          1421
+Overweight     1071
+Underweight     258
+unknown         148
+Name: bmi_discrete, dtype: int64
+avg_glucose_level_discrete avg_glucose_level_discrete
+0    3522
+1     310
+Name: avg_glucose_level_discrete, dtype: int64
